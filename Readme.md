@@ -12,4 +12,4 @@ There are more examples in his repo but I just wanted to play with handwriting r
 
 Stay tuned for a conversion to Swift 3.1 using his new release in Swift AI 2.0
 
-Collin Hundley's [Swift-AI](https://github.com/Swift-AI/Swift-AI)
+Visit Collin Hundley's [Swift-AI](https://github.com/Swift-AI/Swift-AI)
